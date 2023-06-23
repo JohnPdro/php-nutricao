@@ -17,7 +17,7 @@
 
 <body>
   <header>
-    <a href="home.php">
+    <a href="registrar.php">
       <img src="../img/logo.png" width="100" alt="Logo tipo do site">
     </a>
   </header>
