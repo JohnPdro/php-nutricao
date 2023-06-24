@@ -38,7 +38,7 @@ include "../includes/conexao.php";
 
 </table>
 <p>
-  <a href="novo.php">Adicionar aluno</a>
+  <a href="../crud/novo.php">Adicionar aluno</a>
 </p>
 <?php
 mysqli_close($conexao);
