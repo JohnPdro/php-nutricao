@@ -1,0 +1,63 @@
+
+.cabecalho{
+  background-color: rgb(200, 255, 186);
+}
+
+.rodape{
+  background-color: rgb(200, 255, 186);
+}
+
+.link-menu{
+  font-size: 20px;
+  background-color: #23a004;
+  color: white;
+  padding: 5px;
+  margin-bottom: 2px;
+  border: none;
+  border-radius: 10px;
+  width: 150px;
+}
+
+.link-menu:hover{
+  color: white;
+  background-color: #ee5858;
+}
+
+.botao-cadastro{
+  font-size: 20px;
+  background-color: #23a004;
+  color: white;
+  padding: 5px;
+  margin-bottom: 2px;
+  border: none;
+  border-radius: 10px;
+  width: 200px;
+  margin-bottom: 90px;
+}
+
+.botao-cadastro:hover{
+  color: white;
+  background-color: #ee5858;
+}
+
+.fundo-form-novo{
+  background: #ee5858;
+  color: white;
+}
+
+.fonte-form-novo{
+  font-size: 20px;
+}
+
+.botao-form-novo{
+  font-size: 20px;
+  background-color: white;
+  color: #ee5858;
+  border: none;
+  border-radius: 15px;
+}
+
+.botao-form-novo:hover{
+  background-color: #23a004;
+  color: white;
+}
