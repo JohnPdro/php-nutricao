@@ -11,7 +11,7 @@
 </head>
 
 <body>
-  <header class="cabecalho">
+  <header class="cabecalho p-2">
         <nav class="container-fluid ">
           <a class="" href="registrar.php">
             <img src="../img/logo.png" width="100" alt="Logo tipo do site">
