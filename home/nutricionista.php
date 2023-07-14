@@ -22,7 +22,7 @@ include "../includes/conexao.php";
     while ($um_registro = mysqli_fetch_assoc($todos_registros)) :
     ?>
       <tr>
-        <td><?php echo $um_registro['codigo']; ?></td>
+        <td> <?php echo $um_registro['codigo']; ?></td>
         <td> <?php echo $um_registro['nome']; ?></td>
         <td> <?php echo $um_registro['especialidade']; ?></td>
         <td> <?php echo $um_registro['cidade']; ?></td>
