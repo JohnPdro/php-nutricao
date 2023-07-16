@@ -18,7 +18,7 @@ while($um_registro = mysqli_fetch_assoc($todos_registros)):
 endwhile;
 ?>
 
-<h1>Ficha Pessoal</h1>
+<h1>Ficha Pessoal</h1>  
 
 Nome: <?php echo $nome; ?> <br>
 Especialidade: <?php echo $especialidade; ?> <br>
